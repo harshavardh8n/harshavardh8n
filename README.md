@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Full stack web development, DevOps, Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://harshavardhan-gaikwad-portfolio.vercel.app/](https://harshavardhan-gaikwad-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://harshavardhangaikwad.vercel.app/](https://harshavardhangaikwad.vercel.app/)
 
 - 📫 How to reach me **harshavardhangaikwadofficial@gmail.com**
 
